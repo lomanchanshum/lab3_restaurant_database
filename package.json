@@ -1,0 +1,27 @@
+{
+  "name": "lab3_restaurant_database",
+  "version": "1.0.0",
+  "description": "Advanve mongodb, mongoos and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "express",
+    "REST",
+    "API"
+  ],
+  "author": "Tan Loi Ngo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
